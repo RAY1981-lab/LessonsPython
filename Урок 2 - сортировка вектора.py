@@ -1,3 +1,2 @@
-
-import random
-print ('Hello')
+print('Hello')
+for i in range(10)
